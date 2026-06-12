@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/breathing-your-atmosphere-slow/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Breathing Your Atmosphere Slow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathing-your-atmosphere-slow/) |
+| **Get License** | [Official Music Licensing for Breathing Your Atmosphere Slow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathing-your-atmosphere-slow/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire when our shadows trace
+> Moving closer in this quiet place
+> Every breath is pulling me so deep
+> Waking up the secrets that we keep
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
